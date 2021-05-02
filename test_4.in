@@ -1,0 +1,35 @@
+#input
+    5
+    x
+    o
+#output
+        x
+       x x
+      x o x
+     x o o x
+    x x x x x
+#endtest
+
+#input
+    2
+    *
+    .
+#output
+     *
+    * *
+#endtest
+
+#input
+    8
+    #
+    -
+#output
+           #
+          # #
+         # - #
+        # - - #
+       # - - - #
+      # - - - - #
+     # - - - - - #
+    # # # # # # # #
+#endtest

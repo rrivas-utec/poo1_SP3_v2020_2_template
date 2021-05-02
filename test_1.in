@@ -1,0 +1,35 @@
+#input
+    1234
+#output
+    4321
+#endtest
+
+#input
+    1
+#output
+    1
+#endtest
+
+#input
+    11111111111
+#output
+    11111111111
+#endtest
+
+#input
+    4333333
+#output
+    3333334
+#endtest
+
+#input
+    10001
+#output
+    10001
+#endtest
+
+#input
+    10000
+#output
+    1
+#endtest

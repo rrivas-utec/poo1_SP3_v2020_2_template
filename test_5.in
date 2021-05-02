@@ -1,0 +1,35 @@
+#input
+    919
+#output
+    2
+#endtest
+
+#input
+    39
+#output
+    3
+#endtest
+
+#input
+    3
+#output
+    0
+#endtest
+
+#input
+    999
+#output
+    4
+#endtest
+
+#input
+    2
+#output
+    0
+#endtest
+
+#input
+    10
+#output
+    1
+#endtest

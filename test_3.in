@@ -1,0 +1,41 @@
+#input
+    6
+#output
+    perfecto
+#endtest
+
+#input
+    28
+#output
+    perfecto
+#endtest
+
+#input
+    11
+#output
+    imperfecto
+#endtest
+
+#input
+    100
+#output
+    imperfecto
+#endtest
+
+#input
+    8128
+#output
+    perfecto
+#endtest
+
+#input
+    496
+#output
+    perfecto
+#endtest
+
+#input
+    500
+#output
+    imperfecto
+#endtest

@@ -1,0 +1,43 @@
+#input
+    4
+    1
+    10
+    4
+    20
+#output
+    20
+#endtest
+
+#input
+    5
+    1
+    2
+    3
+    4
+    6
+#output
+    6
+#endtest
+
+#input
+    1
+    1
+#output
+    1
+#endtest
+
+#input
+    0
+#output
+    0
+#endtest
+
+#input
+    4
+    -1
+    -10
+    -20
+    -50
+#output
+    -1
+#endtest
