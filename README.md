@@ -2,6 +2,12 @@
 
 Ejercicios sobre estructuras de control repetitivas del curso de programación orientada a objetos 1 (CS1102).
 
+## Instrucciones
+
+- El proyecto cuenta con los archivos `sp3.h` y `sp3.cpp`.
+- Las preguntas deberan ser respondidas en ese archivos.
+- Los archivos deberan ser subidos directamente a www.gradescope.com.
+
 ## Ejercicio #1 - Numero al reves  
 
 ### Problem Statement  
