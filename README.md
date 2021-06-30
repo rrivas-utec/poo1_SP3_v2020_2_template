@@ -4,9 +4,9 @@ Ejercicios sobre estructuras de control repetitivas del curso de programación o
 
 ## Instrucciones
 
-- El proyecto cuenta con los archivos `sp3.h` y `sp3.cpp`.
-- Las declaraciones de las preguntas se encuentran en el archivo `sp3.h` y las definiciones en el archivo `sp3.cpp`.
-- Completar las respuestas dentro de esos archivos (`sp3.h`, `sp3.cpp`) y se requiere agregar alguna nueva función incluirla dentro de estos archivos.
+- El proyecto cuenta con los archivos `SP3.h` y `SP3.cpp`.
+- Las declaraciones de las preguntas se encuentran en el archivo `SP3.h` y las definiciones en el archivo `SP3.cpp`.
+- Completar las respuestas dentro de esos archivos (`SP3.h`, `SP3.cpp`) y se requiere agregar alguna nueva función incluirla dentro de estos archivos.
 - Los archivos deberan ser subidos directamente a www.gradescope.com.
 
 ## Ejercicio #1 - Numero al reves  
